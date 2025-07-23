@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="https://github.com/mmokline/grid-matching-optimizer/stargazers">
-    <img src="https://img.shields.io/github/stars/mmokline/grid-matching-optimizer?style=social" alt="Stars"/>
   </a>
   <a href="https://github.com/mmokline/grid-matching-optimizer/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mmokline/grid-matching-optimizer" alt="MIT License"/>
