@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="docs/cover.png" width="600" alt="Grid Matching Optimizer"/>
+</p>
 
 <h1 align="center">🔲 Grid Matching Optimizer</h1>
 
@@ -46,3 +49,4 @@ grid-matching-optimizer/
 ├── LICENSE
 ├── .gitignore
 └── README.md
+
