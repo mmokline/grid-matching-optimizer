@@ -46,3 +46,11 @@ grid-matching-optimizer/
 ├── LICENSE
 ├── .gitignore
 └── README.md
+```
+
+## 🔧 Installation
+
+To run the code, install the required Python packages:
+
+```bash
+pip install -r requirements.txt
